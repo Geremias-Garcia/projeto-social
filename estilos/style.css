@@ -4,7 +4,7 @@
     margin: 0px;
     padding: 0px;
     font-family: Arial, Helvetica, sans-serif;
-}
+} 
 
 html, body{
     height: 100vh;
@@ -32,4 +32,10 @@ section#telefone{
     width: 311px;
     background-color: blue;
     background: url(../imagens/frame-iphone.png) no-repeat;
+}
+
+iframe#tela {
+    position: relative;
+    top: 50px;
+    left: 22px;
 }
